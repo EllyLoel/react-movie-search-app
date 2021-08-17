@@ -1,1 +1,1 @@
-# react-movie-search-app
+# React movie search app
